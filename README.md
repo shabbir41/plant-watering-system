@@ -1,8 +1,8 @@
-# AWSIoTCore
+# Plant Watering System
 
-A Particle project named AWSIoTCore
+A Particle project named Plant watering system
 
-## Welcome to your project!
+## Welcome to our project!
 
 Every new Particle project is composed of 3 important elements that you'll see have been created in your project directory for AWSIoTCore.
 
